@@ -1,2 +1,2 @@
 # DoRA
-Implementation code for 'Enhancing LoRA with Dynamic Rank Distribution'  Code will be uploaded soon.
+Implementation code for 'DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution.'  Code will be uploaded soon.
